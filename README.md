@@ -1,16 +1,14 @@
-### Hi there 👋
+# Abdulloh Bahromjonov 📱
 
-<!--
-**AbdullohBahromjonov/AbdullohBahromjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`iOS Developer (Developer/Student)`**
 
-Here are some ideas to get you started:
+Hello, World! My name is Abdulloh. I am a 17. I am an iOS developer and a student at TUIT Academic Lyceum. All coding projects are built from the ground up, from planning, designing, and coding, by myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools 🧰
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
+<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+
