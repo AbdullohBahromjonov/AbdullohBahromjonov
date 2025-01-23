@@ -1,7 +1,6 @@
 # Abdulloh Bahromjonov 📱
 
 **`iOS Developer (Developer/Student)`**
-#
 
 ### Languages and Tools 🧰
 
