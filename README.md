@@ -9,5 +9,3 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 <img align="left" alt="Java" width="20px" style="padding-right:10px;" src="https://github.com/AbdullohBahromjonov/AbdullohBahromjonov/assets/90626932/92b3a74e-d6ff-4cd7-b7ee-3d6d176c55e0"/>
 #
-
-#
